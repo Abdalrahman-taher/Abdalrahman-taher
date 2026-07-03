@@ -1,16 +1,81 @@
-## Hi there 👋
+# Hi, I'm Abdalrahman Taher 👋
 
-<!--
-**Abdalrahman-taher/Abdalrahman-taher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Backend Engineer from Egypt 🇪🇬
 
-Here are some ideas to get you started:
+I build scalable backend systems, commercial SaaS platforms, and network automation solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working on a commercial ISP management platform that integrates billing, MikroTik RouterOS, FreeRADIUS, monitoring, and customer management.
+
+---
+
+## 🚀 Main Project
+
+### Nexora
+
+Commercial Multi-Tenant ISP SaaS Platform
+
+**Highlights**
+
+- Multi-tenant SaaS
+- NestJS Backend
+- Next.js Dashboard
+- PostgreSQL + Prisma
+- MikroTik RouterOS Integration
+- FreeRADIUS REST Authorization
+- Billing & Wallet System
+- Quota Enforcement
+- Collector Agents
+- Network Monitoring
+- Discovery & Topology
+- Role-Based Access Control (RBAC)
+
+Project Showcase:
+
+👉 https://github.com/Abdalrahman-taher/nexora-showcase
+
+---
+
+## 💻 Tech Stack
+
+Backend
+
+- NestJS
+- TypeScript
+- Node.js
+
+Database
+
+- PostgreSQL
+- Prisma
+- Redis
+
+Frontend
+
+- Next.js
+- React
+
+Infrastructure
+
+- Docker
+- Nginx
+
+Networking
+
+- MikroTik RouterOS
+- FreeRADIUS
+
+---
+
+## 📫 Contact
+
+LinkedIn
+
+https://www.linkedin.com/in/abdalrahman-taher-6185702b6
+
+GitHub
+
+https://github.com/Abdalrahman-taher
+
+Email
+
+bedotaher2005@gmail.com
