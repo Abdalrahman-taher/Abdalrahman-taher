@@ -6,7 +6,7 @@
 
 <br/>
 
-<a href="https://linkedin.com/in/your-handle"><img src="https://img.shields.io/badge/LinkedIn-0A0A0F?style=for-the-badge&logo=linkedin&logoColor=3B82F6"/></a>
+<a href="https://www.linkedin.com/in/abdalrahman-taher-6185702b6"><img src="https://img.shields.io/badge/LinkedIn-0A0A0F?style=for-the-badge&logo=linkedin&logoColor=3B82F6"/></a>
 <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-0A0A0F?style=for-the-badge&logo=gmail&logoColor=8B5CF6"/></a>
 <a href="https://twitter.com/your-handle"><img src="https://img.shields.io/badge/X-0A0A0F?style=for-the-badge&logo=x&logoColor=F2F2F5"/></a>
 
